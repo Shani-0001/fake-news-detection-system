@@ -122,7 +122,7 @@ The CSV datasets are excluded from the public Git repository. Obtain the dataset
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fake-news-detection-system.git
+git clone https://github.com/shani-0001/fake-news-detection-system.git
 ```
 
 ### Step 2: Open Project Directory
